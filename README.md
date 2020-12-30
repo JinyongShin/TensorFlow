@@ -1,5 +1,5 @@
 # TensorFlow
-Basic practice code for tensorflow
+Basic practice code for tensorflow2.
 
 Youtube 모두를위한 딥러닝 강좌를 참고하며 만들었습니다.
 
